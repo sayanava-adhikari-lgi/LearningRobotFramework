@@ -15,3 +15,7 @@ TC1 Prepaid Recharge
 TC2 Postpaid Recharge
     [Tags]  Adhikari
     log to console   This is postpaid recharge testcase
+
+TC2 Sayanava CICD
+    [Tags]  Adhikari
+    log to console   Sayanava testing CICD

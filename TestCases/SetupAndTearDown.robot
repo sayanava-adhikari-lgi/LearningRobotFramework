@@ -18,4 +18,4 @@ TC2 Postpaid Recharge
 
 TC2 Sayanava CICD
     [Tags]  Adhikari
-    log to console   Sayanava testing CICD
+    log to console   Sayanava testing CICD pipeline
